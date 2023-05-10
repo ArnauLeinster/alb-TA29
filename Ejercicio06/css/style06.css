@@ -14,5 +14,5 @@ table, th, td{
     background-color: rgb(215, 219, 153);
 }
 #patternbg{
-    background-image: url(/images/pattern.jpg);
+    background-image: url(../images/pattern.jpg);
 }
