@@ -1,5 +1,4 @@
 # alb-TA29
-link general: https://arnauleinster.github.io/alb-TA29/
 Ejercicio 1: [Ejercicio01/index.html](https://arnauleinster.github.io/alb-TA29/Ejercicio01/index.html)
 Ejercicio 2: https://arnauleinster.github.io/alb-TA29/Ejercicio02/ejercicio02.html
 Ejercicio 3: https://arnauleinster.github.io/alb-TA29/Ejercicio03/ejercicio03.html
